@@ -19,4 +19,4 @@
 > python manage.py runserver
 <br>
 
-## <a href="custom.pythonanywhere.com"><button>Live Demo</button></a>
+## <a href="http://custom.pythonanywhere.com"><button>Live Demo</button></a>
